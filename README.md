@@ -1,3 +1,13 @@
+# Real Estate Deposit Price Prediction
+
+**Role**: ML Engineer (Team Member)  
+**Problem**: 수도권 아파트 전세가를 예측하여, 중개사·임대인이 리스크를 정량적으로 판단할 수 있도록 하는 모델 개발.  
+**Approach**: 공공·상업 데이터를 결합한 공간 피처 엔지니어링 + 트리 기반 앙상블 모델(예: LGBM) + Optuna 기반 하이퍼파라미터 탐색.  
+**Result**: 베이스라인 대비 RMSE 약 42% 개선, 팀 리더보드 1위 달성.
+**Tech Stack**: Python, pandas, scikit-learn, LightGBM, Optuna, W&B
+
+<br>
+
 <p align="center">
 
   <h1> 💡 수도권 아파트 전세가 예측 프로젝트 </h1>
